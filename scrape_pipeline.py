@@ -15,6 +15,32 @@ def slugify_url(url: str) -> str:
     return slug
 
 
+OUT_DIR = Path("knowledge/raw")
+
+
+def save_results(results):
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    run_ts = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    for r in results:
+        markdown = r.get("markdown") or ""
+        if not markdown:
+            print(f"  WARNING: no markdown for {r['url']}, skipping")
+            continue
+        slug = slugify_url(r["url"])
+        filename = f"{run_ts}_{slug}.md"
+        filepath = OUT_DIR / filename
+        content = (
+            f"---\n"
+            f"title: {r['title']}\n"
+            f"url: {r['url']}\n"
+            f"scraped_at: {datetime.now().isoformat(timespec='seconds')}\n"
+            f"---\n\n"
+            f"{markdown}\n"
+        )
+        filepath.write_text(content, encoding="utf-8")
+        print(f"  Saved: {filepath}")
+
+
 load_dotenv()
 
 api_key = os.getenv("FIRECRAWL_API_KEY")
@@ -44,3 +70,5 @@ if __name__ == "__main__":
         print(f"  - {r['title']}")
         print(f"    {r['url']}")
         print(f"    markdown length: {len(r.get('markdown') or '')} chars")
+
+    save_results(results)
