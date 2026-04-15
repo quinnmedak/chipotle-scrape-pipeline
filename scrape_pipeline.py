@@ -1,9 +1,19 @@
 import os
 import re
 import time
+from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
 import requests
+
+
+def slugify_url(url: str) -> str:
+    """Convert a URL into a filename-safe slug."""
+    slug = re.sub(r'^https?://', '', url)
+    slug = re.sub(r'[^a-zA-Z0-9]+', '-', slug)
+    slug = slug.strip('-')
+    return slug
+
 
 load_dotenv()
 
