@@ -201,7 +201,7 @@ def test_save_filename_format(tmp_path):
     name = files[0].name
     # format: YYYY-MM-DD_HH-MM-SS_<slug>.md
     import re
-    assert re.match(r'\d{4}-\d{2}-\d{2}_\d{2}-\d{2}-\d{2}_01-ir-chipotle-com-sec-filings\.md', name)
+    assert name == '01-ir-chipotle-com-sec-filings.md'
 ```
 
 - [ ] **Step 2: Run tests to verify they fail**
@@ -225,14 +225,13 @@ After the existing `for r in results:` print loop (after the last `print` inside
 ```python
 def save_results(results):
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    run_ts = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     for i, r in enumerate(results, start=1):
         markdown = r.get("markdown") or ""
         if not markdown:
             print(f"  WARNING: no markdown for {r['url']}, skipping")
             continue
         slug = slugify_url(r["url"])
-        filename = f"{run_ts}_{i:02d}-{slug}.md"
+        filename = f"{i:02d}-{slug}.md"
         filepath = OUT_DIR / filename
         content = (
             f"---\n"
@@ -275,8 +274,8 @@ venv/bin/python scrape_pipeline.py
 
 Expected output ends with lines like:
 ```
-  Saved: knowledge/raw/2026-04-15_14-30-22_01-ir-chipotle-com-news-releases.md
-  Saved: knowledge/raw/2026-04-15_14-30-22_02-newsroom-chipotle-com-press-releases.md
+  Saved: knowledge/raw/01-ir-chipotle-com-news-releases.md
+  Saved: knowledge/raw/02-newsroom-chipotle-com-press-releases.md
   ...
 ```
 

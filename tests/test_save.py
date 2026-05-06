@@ -61,4 +61,4 @@ def test_save_filename_format(tmp_path):
     _run_save_block(tmp_path, results)
     files = list(tmp_path.glob("*.md"))
     name = files[0].name
-    assert re.match(r'\d{4}-\d{2}-\d{2}_\d{2}-\d{2}-\d{2}_01-ir-chipotle-com-sec-filings\.md', name)
+    assert re.match(r'01-ir-chipotle-com-sec-filings\.md', name)

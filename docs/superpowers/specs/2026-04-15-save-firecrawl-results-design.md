@@ -10,15 +10,14 @@ Extend `scrape_pipeline.py` to persist each Firecrawl search result as a markdow
 ## Filename Convention
 
 ```
-knowledge/raw/YYYY-MM-DD_HH-MM-SS_NN-<url-slug>.md
+knowledge/raw/NN-<url-slug>.md
 ```
 
-- The datetime is captured once before the loop so all files in a single run share the same timestamp.
 - `NN` is a zero-padded result index (01, 02, …) derived from the order Firecrawl returns results. Search results can share page titles — a title-based slug alone would cause collisions. The index guarantees uniqueness and makes files sort in result order.
 - The URL slug is derived by stripping the scheme (`https://`), replacing all non-alphanumeric characters with hyphens, and collapsing repeated hyphens.
-- The full datetime is always included — no collision check. Every run produces distinct files.
+- Each run overwrites the previous files. This keeps `knowledge/raw/` fresh rather than accumulating stale snapshots.
 
-**Example:** `knowledge/raw/2026-04-15_14-30-22_01-ir-chipotle-com-news-releases.md`
+**Example:** `knowledge/raw/01-ir-chipotle-com-news-releases.md`
 
 ## File Content
 
