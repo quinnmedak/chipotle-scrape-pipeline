@@ -7,7 +7,7 @@ on:
 
 concurrency:
   group: ${{ github.workflow }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   scrape:
@@ -52,6 +52,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new files to commit."
           else
-            git commit -m "chore: scrape run $(date +%Y-%m-%d)"
-            git pull --rebase && git push origin HEAD
+            git commit -m "chore: scrape run $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main && git push origin HEAD:main
           fi
