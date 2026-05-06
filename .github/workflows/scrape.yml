@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: scrape
+  group: ${{ github.workflow }}
   cancel-in-progress: true
 
 jobs:
@@ -26,6 +26,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -36,7 +37,12 @@ jobs:
       - name: Run scrape
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
-        run: python scrape_pipeline.py
+        run: |
+          if [ -z "$FIRECRAWL_API_KEY" ]; then
+            echo "ERROR: FIRECRAWL_API_KEY secret is not set." >&2
+            exit 1
+          fi
+          python scrape_pipeline.py
 
       - name: Commit and push new files
         run: |
@@ -47,5 +53,5 @@ jobs:
             echo "No new files to commit."
           else
             git commit -m "chore: scrape run $(date +%Y-%m-%d)"
-            git pull --rebase origin HEAD && git push origin HEAD
+            git pull --rebase && git push origin HEAD
           fi
