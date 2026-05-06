@@ -21,13 +21,13 @@ OUT_DIR = Path("knowledge/raw")
 def save_results(results):
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     run_ts = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    for r in results:
+    for i, r in enumerate(results, start=1):
         markdown = r.get("markdown") or ""
         if not markdown:
             print(f"  WARNING: no markdown for {r['url']}, skipping")
             continue
         slug = slugify_url(r["url"])
-        filename = f"{run_ts}_{slug}.md"
+        filename = f"{run_ts}_{i:02d}-{slug}.md"
         filepath = OUT_DIR / filename
         content = (
             f"---\n"
