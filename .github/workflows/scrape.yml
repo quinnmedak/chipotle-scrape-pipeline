@@ -5,9 +5,16 @@ on:
     - cron: '0 7 * * 1'
   workflow_dispatch:
 
+concurrency:
+  group: scrape
+  cancel-in-progress: true
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 15
 
     steps:
       - name: Checkout
@@ -40,5 +47,5 @@ jobs:
             echo "No new files to commit."
           else
             git commit -m "chore: scrape run $(date +%Y-%m-%d)"
-            git push origin HEAD
+            git pull --rebase origin HEAD && git push origin HEAD
           fi
