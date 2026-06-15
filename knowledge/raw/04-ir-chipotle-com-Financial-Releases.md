@@ -1,32 +1,32 @@
 ---
 title: News Releases - Chipotle Mexican Grill
 url: https://ir.chipotle.com/Financial-Releases
-scraped_at: 2026-06-01T12:33:16
+scraped_at: 2026-06-15T13:10:03
 ---
 
-May 2026
+June 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
 Cancel Go
 
-May 2026
+June 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
 Cancel Go
 
@@ -54,6 +54,12 @@ PhotosAudioDocumentsEventsStandard
 
 [Basic Search](https://ir.chipotle.com/Financial-Releases#)
 
+- Jun 2, 2026
+
+
+
+[CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026](https://ir.chipotle.com/2026-06-02-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-SECOND-QUARTER-2026-RESULTS-ON-JULY-29,-2026)
+
 - Apr 29, 2026
 
 
@@ -77,12 +83,6 @@ PhotosAudioDocumentsEventsStandard
 
 
 [CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2025 RESULTS](https://ir.chipotle.com/2026-02-03-CHIPOTLE-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS)
-
-- Jan 12, 2026
-
-
-
-[CHIPOTLE ANNOUNCES LEADERSHIP TRANSITIONS](https://ir.chipotle.com/2026-01-12-CHIPOTLE-ANNOUNCES-LEADERSHIP-TRANSITIONS)
 
 
 Show
