@@ -1,7 +1,7 @@
 ---
 title: CHIPOTLE ANNOUNCES SECOND QUARTER 2025 RESULTS
 url: https://ir.chipotle.com/2025-07-23-CHIPOTLE-ANNOUNCES-SECOND-QUARTER-2025-RESULTS
-scraped_at: 2026-06-08T11:53:31
+scraped_at: 2026-06-22T12:45:59
 ---
 
 [Back to News Releases](https://ir.chipotle.com/news-releases)
