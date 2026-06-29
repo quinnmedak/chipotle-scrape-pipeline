@@ -1,7 +1,7 @@
 ---
 title: News Releases - Chipotle Mexican Grill
 url: https://ir.chipotle.com/news-releases
-scraped_at: 2026-06-22T12:45:59
+scraped_at: 2026-06-29T11:55:55
 ---
 
 # News Releases
