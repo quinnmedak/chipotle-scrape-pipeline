@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases
-scraped_at: 2026-06-29T11:55:55
+scraped_at: 2026-07-06T11:24:38
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -10,29 +10,31 @@ scraped_at: 2026-06-29T11:55:55
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-June 2026
+Month Year
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+
+| Su | Mo | Tu | We | Th | Fr | Sa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
-June 2026
+Month Year
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+
+| Su | Mo | Tu | We | Th | Fr | Sa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 

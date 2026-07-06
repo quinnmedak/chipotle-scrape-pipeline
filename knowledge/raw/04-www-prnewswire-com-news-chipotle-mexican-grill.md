@@ -1,7 +1,7 @@
 ---
 title: Chipotle Mexican Grill News and Press Releases | PR Newswire
 url: https://www.prnewswire.com/news/chipotle-mexican-grill/
-scraped_at: 2026-06-29T11:55:55
+scraped_at: 2026-07-06T11:24:38
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -10,15 +10,15 @@ scraped_at: 2026-06-29T11:55:55
 
 Jump to News Releases:
 
-June 2026
+July 2026
 
 | SundaySu | MondayMo | TuesdayTu | WednesdayWe | ThursdayTh | FridayFr | SaturdaySa |
 | --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
 
 Close
 
