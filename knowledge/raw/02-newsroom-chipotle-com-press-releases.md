@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases
-scraped_at: 2026-07-06T11:24:38
+scraped_at: 2026-07-13T10:20:30
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -10,31 +10,29 @@ scraped_at: 2026-07-06T11:24:38
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-Month Year
+July 2026
 
-
-| Su | Mo | Tu | We | Th | Fr | Sa |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
-Month Year
+July 2026
 
-
-| Su | Mo | Tu | We | Th | Fr | Sa |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
@@ -57,6 +55,50 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![2K Golfer](https://newsroom.chipotle.com/file.php/181036/2K+Golfer.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION)
+
+
+
+Jul 8, 2026
+
+
+
+[CHIPOTLE BRINGS REAL-WORLD FOOD REWARDS TO PGA TOUR 2K25 IN FIRST-OF-ITS-KIND QUEST INTEGRATIONOpens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION)
+
+
+
+
+
+Chipotle’s new PGA TOUR 2K25 Quests will give players the chance to earn free food and unlock exclusive in-game gear1 The integration launches today with Season 7 of PGA TOUR 2K25 Chipotle will...
+
+
+
+
+
+  - [Photos3Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION#assets_20295_122868-117)
+
+- [![](https://newsroom.chipotle.com/file.php/181031/Cultivate_Next.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM)
+
+
+
+Jul 8, 2026
+
+
+
+[CHIPOTLE’S CULTIVATE NEXT FUND INVESTS IN SIX EMERGING COMPANIES BUILDING A MORE RESILIENT FOOD SYSTEMOpens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM)
+
+
+
+
+
+New investments support entrepreneurs working to advance food systems, climate resilience, regenerative agriculture, supply chain transparency, sustainability measurement and guest experience...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM#assets_20295_122867-117)
 
 - [![](https://newsroom.chipotle.com/file.php/181019/2XKO-+buy+get+2026+16x9_v2+copy_800.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO)
 
@@ -123,40 +165,6 @@ Chipotle is tying New York and San Antonio's 53-year connection to its real ingr
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES#assets_20295_122864-117)
-
-- Jun 2, 2026
-
-
-
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026Opens in new window](https://newsroom.chipotle.com/2026-06-02-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-SECOND-QUARTER-2026-RESULTS-ON-JULY-29,-2026)
-
-
-
-
-
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 29, 2026, at 4:30 p.m. ET to discuss second quarter 2026 financial results and provide a business update for the...
-
-- [![](https://mmx.prnewswire.com/media/MS1850047/Chipotle_Summer_of_Extras.jpg?id=OA2643175&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
-
-
-
-May 28, 2026
-
-
-
-[CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCEOpens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
-
-
-
-
-
-The 2026 program introduces simplified monthly rewards, local leaderboards and shareable stats designed to engage loyal fans this summer NEWPORT BEACH, Calif., May 28, 2026 /PRNewswire/ --...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE#assets_20295_122862-117)
 
 Show
 
