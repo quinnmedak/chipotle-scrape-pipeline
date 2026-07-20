@@ -1,7 +1,7 @@
 ---
-title: Chipotle Mexican Grill News and Press Releases | PR Newswire
+title: News from Chipotle Mexican Grill ...
 url: https://www.prnewswire.com/news/chipotle-mexican-grill/
-scraped_at: 2026-07-13T10:20:30
+scraped_at: 2026-07-20T09:55:40
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -47,6 +47,22 @@ Making a selection with these dropdown will cause content on this page to change
 25 per page
 
 ## Latest
+
+[![CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH $1 MILLION IN FREE BURRITOS](https://mmx.prnewswire.com/media/MS1884012/1920x1080-Chipotle-Water-Break.jpg?id=OA2766770&w=300)\\
+\\
+**Jul 16, 2026, 07:53 ET      CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH $1 MILLION IN FREE BURRITOS** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced that it is turning one of soccer's newest matchday traditions into a $1 million burrito giveaway...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-puts-a-new-twist-on-soccers-hydration-break-with-1-million-in-free-burritos-302827104.html)
+
+[![CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&w=300)\\
+\\
+**Jul 13, 2026, 16:10 ET      CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓN** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced that the first Chipotle restaurant in Mexico will open on Thursday, July 16 in San Pedro Garza...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-enters-mexico-with-first-restaurant-in-nuevo-leon-302824162.html)
 
 [![CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYS](https://mmx.prnewswire.com/media/MS1858810/Soccer_BOGO_Lockup_PR_Asset.jpg?id=OA2690089&w=300)\\
 \\
@@ -231,22 +247,6 @@ Chipotle continues its support of the Fighting Game Community (FGC) as an offici
 Chipotle Mexican Grill (NYSE: CMG) today announced it has signed a joint venture to open restaurants in Asia for the first time. In partnership, SPC...\\
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-to-expand-to-asia-for-the-first-time-through-a-joint-venture-with-spc-group-302553062.html)
-
-[![CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2025 RESULTS ON OCTOBER 29, 2025](https://mma.prnewswire.com/media/624816/Chipotle_Mexican_Grill_Logo.jpg?w=300)\\
-\\
-**Sep 02, 2025, 16:10 ET      CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2025 RESULTS ON OCTOBER 29, 2025** \\
-\\
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, October 29, 2025 at 4:30 PM Eastern time to discuss third quarter 2025...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-mexican-grill-to-announce-third-quarter-2025-results-on-october-29-2025-302544178.html)
-
-[![CHIPOTLE TEAMS UP WITH ELITE COLLEGE ATHLETIC PROGRAMS TO FUEL STUDENT ATHLETES WITH REAL FOOD](https://mma.prnewswire.com/media/2758742/Chipotle_OSU_Student_Athletes.jpg?w=300)\\
-\\
-**Aug 27, 2025, 07:53 ET      CHIPOTLE TEAMS UP WITH ELITE COLLEGE ATHLETIC PROGRAMS TO FUEL STUDENT ATHLETES WITH REAL FOOD** \\
-\\
-For the 2025-26 school year, all student athletes at The Ohio State University, University of Florida and University of Georgia will receive a...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-teams-up-with-elite-college-athletic-programs-to-fuel-student-athletes-with-real-food-302539611.html)
 
 ### Journalists and Bloggers
 
