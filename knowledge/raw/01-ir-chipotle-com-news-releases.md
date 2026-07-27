@@ -1,7 +1,7 @@
 ---
 title: News Releases
 url: https://ir.chipotle.com/news-releases
-scraped_at: 2026-07-20T09:55:40
+scraped_at: 2026-07-27T10:38:18
 ---
 
 # News Releases

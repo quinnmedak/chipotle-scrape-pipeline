@@ -1,7 +1,7 @@
 ---
 title: Chipotle InvestorRoom - Home
 url: https://ir.chipotle.com/
-scraped_at: 2026-07-20T09:55:40
+scraped_at: 2026-07-27T10:38:18
 ---
 
 # Home
@@ -38,9 +38,9 @@ RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; 
 
 NYSECMG
 
-$34.44
+$31.79
 
-$0.24
+-$0.22
 
 Currency in USD.
 

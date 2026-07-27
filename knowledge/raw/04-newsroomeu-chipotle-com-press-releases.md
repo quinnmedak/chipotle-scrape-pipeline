@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroomeu.chipotle.com/press-releases
-scraped_at: 2026-07-20T09:55:40
+scraped_at: 2026-07-27T10:38:18
 ---
 
 [Skip to main content](https://newsroomeu.chipotle.com/press-releases#content)

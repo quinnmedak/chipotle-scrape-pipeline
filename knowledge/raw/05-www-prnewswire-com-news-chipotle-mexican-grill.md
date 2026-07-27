@@ -1,7 +1,7 @@
 ---
-title: News from Chipotle Mexican Grill ...
+title: Chipotle Mexican Grill News and Press Releases
 url: https://www.prnewswire.com/news/chipotle-mexican-grill/
-scraped_at: 2026-07-20T09:55:40
+scraped_at: 2026-07-27T10:38:18
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
