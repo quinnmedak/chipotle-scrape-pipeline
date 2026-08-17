@@ -1,7 +1,7 @@
 ---
-title: Chipotle Mexican Grill News and Press Releases | PR Newswire
+title: Chipotle Mexican Grill News and Press Releases
 url: https://www.prnewswire.com/news/chipotle-mexican-grill/
-scraped_at: 2026-08-10T08:23:50
+scraped_at: 2026-08-17T07:48:05
 ---
 
 [Accessibility Statement](https://www.cision.com/about/accessibility/) [Skip Navigation](https://www.prnewswire.com/news/chipotle-mexican-grill/#main)
@@ -10,13 +10,60 @@ scraped_at: 2026-08-10T08:23:50
 
 Jump to News Releases:
 
+August 2026
+
+| SundaySu | MondayMo | TuesdayTu | WednesdayWe | ThursdayTh | FridayFr | SaturdaySa |
+| --- | --- | --- | --- | --- | --- | --- |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+
+Close
+
+Click or press the Enter key or the spacebar to open the calendar
+
+Go to previous month
+
+Go to next month
+
+Go to the previous year
+
+Go to the next year
+
+Close the calendar
+
 00:0001:0002:0003:0004:0005:0006:0007:0008:0009:0010:0011:0012:0013:0014:0015:0016:0017:0018:0019:0020:0021:0022:0023:00
+
+00:00
 
 Go
 
-Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:25 per page50 per page75 per page100 per page
+Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:
+
+25 per page50 per page75 per page100 per page
+
+25 per page
 
 ## Latest
+
+[![CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADH](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&w=300)\\
+\\
+**Aug 13, 2026, 07:53 ET      CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADH** \\
+\\
+Chipotle Mexican Grill (NYSE: CMG) today announced the opening of its first restaurant in the Kingdom of Saudi Arabia (KSA) later this month in...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-debuts-in-saudi-arabia-with-first-restaurant-in-riyadh-302850522.html)
+
+[![CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME](https://mmx.prnewswire.com/media/MS1967459/ChipotleIq_Sweepstakes_1920x1080.jpg?id=OA2854285&w=300)\\
+\\
+**Aug 11, 2026, 07:53 ET      CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME** \\
+\\
+From August 18 through August 20, Chipotle Rewards members can put their brand knowledge to the test for a chance to win BUY-ONE-GET-ONE (BOGO) free...\\
+\\
+* * *](https://www.prnewswire.com/news-releases/chipotle-iq-returns-with-more-than-1-million-in-free-chipotle-plus-new-daily-streaks-silver-tickets-and-a-collectible-card-game-302847784.html)
 
 [![CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUAC](https://mmx.prnewswire.com/media/MS1958648/Chipotle-Mexican-Grill-National-Avocado-Day.jpg?id=OA2794606&w=300)\\
 \\
@@ -202,22 +249,6 @@ On the night before Thanksgiving, a popular time for young adults to reconnect w
 \\
 * * *](https://www.prnewswire.com/news-releases/chipotle-reunites-hometown-friends-with-a-buy-one-get-one-bogo-entree-offer-on-thanksgiving-eve-302621409.html)
 
-[![CHIPOTLE ANNOUNCES THIRD QUARTER 2025 RESULTS](https://mma.prnewswire.com/media/624816/Chipotle_Mexican_Grill_Logo.jpg?w=300)\\
-\\
-**Oct 29, 2025, 16:10 ET      CHIPOTLE ANNOUNCES THIRD QUARTER 2025 RESULTS** \\
-\\
-hipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for its third quarter ended September 30, 2025. Third quarter highlights,...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-announces-third-quarter-2025-results-302598916.html)
-
-[![CHIPOTLE AND RIOT GAMES INTRODUCE THE CHIPOTLE CHALLENGER BUNDLE IN 2XKO](https://i.ytimg.com/vi/5t3oDOZwsvk/hqdefault.jpg)\\
-\\
-**Oct 07, 2025, 11:00 ET      CHIPOTLE AND RIOT GAMES INTRODUCE THE CHIPOTLE CHALLENGER BUNDLE IN 2XKO** \\
-\\
-Chipotle continues its support of the Fighting Game Community (FGC) as an official launch partner of Riot Games' 2XKO, a next-generation fighting...\\
-\\
-* * *](https://www.prnewswire.com/news-releases/chipotle-and-riot-games-introduce-the-chipotle-challenger-bundle-in-2xko-302576772.html)
-
 ### Journalists and Bloggers
 
 ## The news you need, when you need it.
@@ -232,4 +263,8 @@ In need of subject matter experts for your story? [Submit a free ProfNet request
 
 [LEARN MORE](https://prnmedia.prnewswire.com/)
 
-Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:25 per page50 per page75 per page100 per page
+Making a selection with these dropdown will cause content on this page to change. News listings will update as each option is selected.Items per page:
+
+25 per page50 per page75 per page100 per page
+
+25 per page

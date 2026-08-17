@@ -1,7 +1,7 @@
 ---
-title: Events and Webcasts - Chipotle Mexican Grill
+title: Events and Webcasts
 url: https://ir.chipotle.com/events
-scraped_at: 2026-08-10T08:23:50
+scraped_at: 2026-08-17T07:48:05
 ---
 
 # Events
