@@ -1,7 +1,7 @@
 ---
 title: Events and Webcasts
 url: https://ir.chipotle.com/events
-scraped_at: 2026-08-17T07:48:05
+scraped_at: 2026-08-24T07:53:34
 ---
 
 # Events
