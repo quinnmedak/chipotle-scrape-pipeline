@@ -1,7 +1,7 @@
 ---
 title: Chipotle InvestorRoom - Home
 url: https://ir.chipotle.com/
-scraped_at: 2026-09-07T13:13:57
+scraped_at: 2026-09-14T13:36:43
 ---
 
 # Home
@@ -38,9 +38,9 @@ Chipotle and Alsea plan additional openings in Nuevo León this year and expansi
 
 NYSECMG
 
-$36.96
+$36.20
 
--$0.61
+$0.07
 
 Currency in USD.
 
@@ -110,5 +110,3 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
-
-Twitter Widget Iframe
