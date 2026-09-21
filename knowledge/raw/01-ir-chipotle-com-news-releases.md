@@ -1,36 +1,36 @@
 ---
-title: News Releases
+title: News Releases - Chipotle Mexican Grill
 url: https://ir.chipotle.com/news-releases
-scraped_at: 2026-08-24T07:53:34
+scraped_at: 2026-09-21T13:33:42
 ---
 
 # News Releases
 
 These are news releases that are related to our Investor efforts.  Releases are listed in chronological order and are archived by year.  Sign-up to receive news as it is released using the email and RSS tools below.
 
-August 2026
+September 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 Cancel Go
 
-August 2026
+September 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 Cancel Go
 
@@ -58,68 +58,59 @@ PhotosAudioDocumentsEventsStandard
 
 [Basic Search](https://ir.chipotle.com/news-releases#)
 
-- [![](https://mmx.prnewswire.com/media/MS1971985/SalishPR_1-1.jpg?id=OA2895551&p=thumbnail)](https://ir.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
+- [![](https://mmx.prnewswire.com/media/MS1988448/A009C002_241108LK_Karen_B_Option1-1.jpg?id=OA2948884&p=thumbnail)](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
 
 
 
-Aug 19, 2026
+Sep 15, 2026
 
 
 
-[CHIPOTLE LAUNCHES THE SALISH MATTER ORDER INSPIRED BY ONE OF GEN ALPHA'S BIGGEST CELEBRITIES](https://ir.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
+[CHIPOTLE EXPANDS RESTAURANT LEADERSHIP PIPELINE, AIMS TO PLACE AN APPRENTICE IN EVERY RESTAURANT BY THE END OF 2027](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
 
 
 
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES#assets_20295_122850-3)
+  - [PhotosPhotos1](https://ir.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027#assets_20295_122857-3)
 
-- [![](https://mmx.prnewswire.com/media/MS1970259/School-Spirit-Bogo-PR-with-Logo.jpg?id=OA2888412&p=thumbnail)](https://ir.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
-
-
-
-Aug 17, 2026
+- Sep 14, 2026
 
 
 
-[CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEAL](https://ir.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
+[CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORS](https://ir.chipotle.com/2026-09-14-CHIPOTLE-APPOINTS-SABIR-SAMI-TO-ITS-BOARD-OF-DIRECTORS)
+
+- [![](https://mmx.prnewswire.com/media/MS1980088/Chipotle-Gangnam_Exterior.jpg?id=OA2924917&p=thumbnail)](https://ir.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
 
 
 
-  - [PhotosPhotos2](https://ir.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL#assets_20295_122849-3)
-
-- [![](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&p=thumbnail)](https://ir.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
+Sep 2, 2026
 
 
 
-Aug 13, 2026
+[CHIPOTLE ARRIVES IN ASIA WITH FIRST RESTAURANT IN SEOUL](https://ir.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
 
 
 
-[CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADH](https://ir.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
+  - [PhotosPhotos2](https://ir.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL#assets_20295_122855-3)
+
+- Sep 1, 2026
 
 
 
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH#assets_20295_122848-3)
+[CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON OCTOBER 28, 2026](https://ir.chipotle.com/2026-09-01-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-THIRD-QUARTER-2026-RESULTS-ON-OCTOBER-28,-2026)
 
-- [![](https://mmx.prnewswire.com/media/MS1967459/ChipotleIq_Sweepstakes_1920x1080.jpg?id=OA2854285&p=thumbnail)](https://ir.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME)
-
-
-
-Aug 11, 2026
+- [![](https://mmx.prnewswire.com/media/MS1977896/Pollo-Asado-General-PR-1.jpg?id=OA2918906&p=thumbnail)](https://ir.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
 
 
 
-[CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME](https://ir.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME)
+Aug 31, 2026
 
 
 
-  - [PhotosPhotos1](https://ir.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME#assets_20295_122847-3)
-
-- Jul 29, 2026
+[CHIPOTLE MARKS A BRAND FIRST WITH ALL-NEW POLLO ASADO AND THE DEBUT OF CHILI LIME CHIPS](https://ir.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
 
 
 
-[CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUM](https://ir.chipotle.com/2026-07-29-CHIPOTLE-RAISES-FULL-YEAR-COMPARABLE-SALES-GUIDANCE-ON-STRONG-Q2-MOMENTUM)
-
+  - [PhotosPhotos3](https://ir.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS#assets_20295_122853-3)
 
 Show
 

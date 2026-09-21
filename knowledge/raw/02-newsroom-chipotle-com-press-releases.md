@@ -1,46 +1,38 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases
-scraped_at: 2026-08-24T07:53:34
+scraped_at: 2026-09-21T13:33:42
 ---
 
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
-
- [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
+[Skip to main content](https://newsroom.chipotle.com/press-releases#content)
 
 # CHIPOTLE NEWS RELEASES
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-August 2026
+September 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 Cancel Go
 
-August 2026
+September 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 Cancel Go
 
@@ -64,105 +56,95 @@ PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
 
-- [![](https://mmx.prnewswire.com/media/MS1971985/SalishPR_1-1.jpg?id=OA2895551&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
+- [![](https://newsroom.chipotle.com/file.php/181151/1920x1080_Quesadilla+Day-2.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS)
 
 
 
-Aug 19, 2026
+Sep 21, 2026
 
 
 
-[CHIPOTLE LAUNCHES THE SALISH MATTER ORDER INSPIRED BY ONE OF GEN ALPHA'S BIGGEST CELEBRITIESOpens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
+[CHIPOTLE CELEBRATES NATIONAL QUESADILLA DAY 2026 WITH TWO DAYS OF FREE QUESADILLASOpens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS)
 
 
 
 
 
-The Salish Matter Order features a Kid's Cheese Quesadilla with white rice, black beans and guac, served with kid's chips and chocolate milk, available exclusively in the Chipotle app and on...
+From September 24 through September 25, guests in the U.S. and Canada can score a free quesadilla with a digital purchase of $20 or more on the Chipotle app, Chipotle.com and Chipotle.ca with code...
 
 
 
 
 
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES#assets_20295_122879-117)
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS#assets_20295_122888-117)
 
-- [![](https://mmx.prnewswire.com/media/MS1970259/School-Spirit-Bogo-PR-with-Logo.jpg?id=OA2888412&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
+- [![](https://mmx.prnewswire.com/media/MS1988448/A009C002_241108LK_Karen_B_Option1-1.jpg?id=OA2948884&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
 
 
 
-Aug 17, 2026
+Sep 15, 2026
 
 
 
-[CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEALOpens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
+[CHIPOTLE EXPANDS RESTAURANT LEADERSHIP PIPELINE, AIMS TO PLACE AN APPRENTICE IN EVERY RESTAURANT BY THE END OF 2027Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
 
 
 
 
 
-On Thursday, August 20, guests wearing school apparel or accessories can receive a BUY-ONE-GET-ONE (BOGO) entrée offer from 3 p.m. to close local time¹ at participating Chipotle restaurants. On...
+Enhanced Apprentice program supports Chipotle's long-term goal of developing restaurant leaders from within The company's decade-long partnership with Guild has helped nearly 25,000 employees...
 
 
 
 
 
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL#assets_20295_122877-117)
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027#assets_20295_122887-117)
 
-- [![](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
+- Sep 14, 2026
 
 
 
-Aug 13, 2026
+[CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORSOpens in new window](https://newsroom.chipotle.com/2026-09-14-CHIPOTLE-APPOINTS-SABIR-SAMI-TO-ITS-BOARD-OF-DIRECTORS)
 
 
 
-[CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADHOpens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
 
 
+Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 years of global consumer and...
 
+- [![](https://mmx.prnewswire.com/media/MS1980088/Chipotle-Gangnam_Exterior.jpg?id=OA2924917&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
 
 
-The opening at Sidra in Riyadh marks Chipotle's entry into the Kingdom and continues the brand's expansion across the Middle East with franchise partner Alshaya Group NEWPORT BEACH, Calif., Aug....
 
+Sep 2, 2026
 
 
 
+[CHIPOTLE ARRIVES IN ASIA WITH FIRST RESTAURANT IN SEOULOpens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
 
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH#assets_20295_122876-117)
 
-- [![](https://mmx.prnewswire.com/media/MS1967459/ChipotleIq_Sweepstakes_1920x1080.jpg?id=OA2854285&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME)
 
 
 
-Aug 11, 2026
+The opening marks a significant milestone in Chipotle's global expansion, establishing South Korea as a reference market for future growth across Asia The joint venture established by Chipotle and...
 
 
 
-[CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAMEOpens in new window](https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME)
 
 
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL#assets_20295_122885-117)
 
+- Sep 1, 2026
 
 
-From August 18 through August 20, Chipotle Rewards members can put their brand knowledge to the test for a chance to win BUY-ONE-GET-ONE (BOGO) free entrée codes, free Cilantro Lime Sauce offers,...
 
+[CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON OCTOBER 28, 2026Opens in new window](https://newsroom.chipotle.com/2026-09-01-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-THIRD-QUARTER-2026-RESULTS-ON-OCTOBER-28,-2026)
 
 
 
 
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME#assets_20295_122875-117)
 
-- Aug 5, 2026
-
-
-
-[A Statement from Chipotle on Food SafetyOpens in new window](https://newsroom.chipotle.com/2026-08-04-A-Statement-from-Chipotle-on-Food-Safety)
-
-
-
-
-
-The health and safety of our guests and employees is our highest priority. We have a robust ingredient traceability system and, upon learning of a potential Salmonella outbreak in the supply chain impacting wholesalers...
+Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, October 28, 2026, at 4:30 p.m. ET to discuss third quarter 2026 financial results and provide a business update for the...
 
 
 Show
