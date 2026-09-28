@@ -1,7 +1,7 @@
 ---
 title: Chipotle InvestorRoom - Home
 url: https://ir.chipotle.com/
-scraped_at: 2026-09-21T13:33:42
+scraped_at: 2026-09-28T14:53:16
 ---
 
 # Home
@@ -34,9 +34,9 @@ Jul 29, 2026
 
 NYSECMG
 
-$33.43
+$31.33
 
--$0.08
+-$0.68
 
 Currency in USD.
 

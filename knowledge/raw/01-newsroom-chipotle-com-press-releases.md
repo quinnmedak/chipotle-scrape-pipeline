@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases
-scraped_at: 2026-09-14T13:36:43
+scraped_at: 2026-09-28T14:53:16
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -56,6 +56,62 @@ PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
 
+- [![](https://newsroom.chipotle.com/file.php/181151/1920x1080_Quesadilla+Day-2.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS)
+
+
+
+Sep 21, 2026
+
+
+
+[CHIPOTLE CELEBRATES NATIONAL QUESADILLA DAY 2026 WITH TWO DAYS OF FREE QUESADILLASOpens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS)
+
+
+
+
+
+From September 24 through September 25, guests in the U.S. and Canada can score a free quesadilla with a digital purchase of $20 or more on the Chipotle app, Chipotle.com and Chipotle.ca with code...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS#assets_20295_122888-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1988448/A009C002_241108LK_Karen_B_Option1-1.jpg?id=OA2948884&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
+
+
+
+Sep 15, 2026
+
+
+
+[CHIPOTLE EXPANDS RESTAURANT LEADERSHIP PIPELINE, AIMS TO PLACE AN APPRENTICE IN EVERY RESTAURANT BY THE END OF 2027Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
+
+
+
+
+
+Enhanced Apprentice program supports Chipotle's long-term goal of developing restaurant leaders from within The company's decade-long partnership with Guild has helped nearly 25,000 employees...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027#assets_20295_122887-117)
+
+- Sep 14, 2026
+
+
+
+[CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORSOpens in new window](https://newsroom.chipotle.com/2026-09-14-CHIPOTLE-APPOINTS-SABIR-SAMI-TO-ITS-BOARD-OF-DIRECTORS)
+
+
+
+
+
+Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 years of global consumer and...
+
 - [![](https://mmx.prnewswire.com/media/MS1980088/Chipotle-Gangnam_Exterior.jpg?id=OA2924917&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
 
 
@@ -90,71 +146,6 @@ The opening marks a significant milestone in Chipotle's global expansion, establ
 
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, October 28, 2026, at 4:30 p.m. ET to discuss third quarter 2026 financial results and provide a business update for the...
 
-- [![](https://mmx.prnewswire.com/media/MS1977896/Pollo-Asado-General-PR-1.jpg?id=OA2918906&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
-
-
-
-Aug 31, 2026
-
-
-
-[CHIPOTLE MARKS A BRAND FIRST WITH ALL-NEW POLLO ASADO AND THE DEBUT OF CHILI LIME CHIPSOpens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
-
-
-
-
-
-For the first time in brand history, Chipotle is launching two limited-time menu items simultaneously: Pollo Asado and Chili Lime Chips Pollo Asado returns August 31 with an all-new recipe,...
-
-
-
-
-
-  - [Photos3Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS#assets_20295_122883-117)
-
-- [![](https://newsroom.chipotle.com/file.php/181138/Creator+PR+1+1000px.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-HANDS-THE-CAMERAS-TO-100-CREATORS-FOR-ITS-NEW-NATIONAL-AD-CAMPAIGN)
-
-
-
-Aug 31, 2026
-
-
-
-[CHIPOTLE HANDS THE CAMERAS TO 100 CREATORS FOR ITS NEW NATIONAL AD CAMPAIGNOpens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-HANDS-THE-CAMERAS-TO-100-CREATORS-FOR-ITS-NEW-NATIONAL-AD-CAMPAIGN)
-
-
-
-
-
-The next evolution of Behind the Foil was captured entirely by creators, with zero brand-shot footage and no traditional director or production company managing the shoot The campaign marks Chief...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-HANDS-THE-CAMERAS-TO-100-CREATORS-FOR-ITS-NEW-NATIONAL-AD-CAMPAIGN#assets_20295_122882-117)
-
-- [![](https://mmx.prnewswire.com/media/MS1975522/DoubleProteinPR.jpg?id=OA2910991&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK)
-
-
-
-Aug 26, 2026
-
-
-
-[CHIPOTLE OFFERS FREE DOUBLE PROTEIN ON AUGUST 27 TO CELEBRATE CHIPOTLE HONEY CHICKEN'S FINAL WEEKOpens in new window](https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK)
-
-
-
-
-
-On Thursday, August 27, guests in the U.S. and Canada can receive free double protein on any entrée ordered through the Chipotle app, Chipotle.com or Chipotle.ca with code PROTEIN at checkout¹...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK#assets_20295_122881-117)
 
 Show
 
