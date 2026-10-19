@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases
-scraped_at: 2026-10-12T16:25:30
+scraped_at: 2026-10-19T14:16:50
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
@@ -55,6 +55,29 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS2011799/Chipotle_GUT_STILLS_STREET-2-2.jpg?id=OA3014400&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
+
+
+
+Oct 13, 2026
+
+
+
+[CHIPOTLE GOES BIG FOR FAMILY MEALS WITH THE BIG ASS CHIPOTLE BAGOpens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
+
+
+
+
+
+Chipotle unveils a limited-edition, three-foot-wide, 170-liter version of its iconic takeout bag to spotlight Family Meals Family Meals are Chipotle's digital-exclusive, customizable offering...
+
+
+
+
+
+  - [Photos5Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122892-117)
+  - [Video1Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122892-115)
 
 - [![](https://mmx.prnewswire.com/media/MS2001874/01_FromGroundtoSound_PR_Cision.jpg?id=OA2985587&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
 
@@ -145,28 +168,6 @@ From September 24 through September 25, guests in the U.S. and Canada can score 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS#assets_20295_122888-117)
 
-- [![](https://mmx.prnewswire.com/media/MS1988448/A009C002_241108LK_Karen_B_Option1-1.jpg?id=OA2948884&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
-
-
-
-Sep 15, 2026
-
-
-
-[CHIPOTLE EXPANDS RESTAURANT LEADERSHIP PIPELINE, AIMS TO PLACE AN APPRENTICE IN EVERY RESTAURANT BY THE END OF 2027Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
-
-
-
-
-
-Enhanced Apprentice program supports Chipotle's long-term goal of developing restaurant leaders from within The company's decade-long partnership with Guild has helped nearly 25,000 employees...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027#assets_20295_122887-117)
-
 Show
 
 5
@@ -179,5 +180,7 @@ per page
 - [Opens in new window](https://twitter.com/share?url=https%3A%2F%2Fnewsroom.chipotle.com%2Findex.php%3Fs%3D20295 "Twitter Share")
 - [email](https://newsroom.chipotle.com/press-releases#email "email")
 - [Opens in new window](https://newsroom.chipotle.com/index.php?s=20324&rsspage=20295 "rss")
+
+(opens in a new window)
 
 [5Opens in new window](https://newsroom.chipotle.com/press-releases?l=5) [10Opens in new window](https://newsroom.chipotle.com/press-releases?l=10) [25Opens in new window](https://newsroom.chipotle.com/press-releases?l=25) [50Opens in new window](https://newsroom.chipotle.com/press-releases?l=50) [100Opens in new window](https://newsroom.chipotle.com/press-releases?l=100)
