@@ -1,7 +1,7 @@
 ---
 title: News Releases - Chipotle Mexican Grill
 url: https://ir.chipotle.com/Financial-Releases
-scraped_at: 2026-10-05T15:29:53
+scraped_at: 2026-10-26T13:49:19
 ---
 
 October 2026
@@ -141,6 +141,8 @@ Cookies are used to support and manage your interactions with our website and pr
 
 
 OKAYPRIVACY POLICY
+
+(opens in a new window)
 
 Twitter Widget Iframe
 
