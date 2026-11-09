@@ -1,10 +1,18 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases
-scraped_at: 2026-11-02T16:46:22
+scraped_at: 2026-11-09T17:05:22
 ---
 
-[Skip to main content](https://newsroom.chipotle.com/press-releases#content)
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
+
+ [Skip to main content](https://newsroom.chipotle.com/press-releases#content)
 
 # CHIPOTLE NEWS RELEASES
 
@@ -55,6 +63,50 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- [![](https://mmx.prnewswire.com/media/MS2029697/2611_CMG_Friday13thTattoo26-Wiz_PR-ASSET_WIZ_v1_1920x1080.jpg?id=OA3064320&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13)
+
+
+
+Nov 9, 2026
+
+
+
+[CHIPOTLE BRINGS BACK RECORD-BREAKING "TATTED LIKE A CHIPOTLE BAG" BOGO ON FRIDAY, NOVEMBER 13Opens in new window](https://newsroom.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13)
+
+
+
+
+
+Chipotle's Friday the 13th promotion returns Friday, November 13 with a one-hour flash BUY-ONE-GET-ONE (BOGO) entrée offer for tattooed guests from 3 to 4 p.m. local time at participating...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13#assets_20295_122899-117)
+
+- [![](https://newsroom.chipotle.com/file.php/181412/10.6Updated-All31200.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-11-04-CHIPOTLE-EXPANDS-ATHLETE-CARD-PROGRAM-TO-MORE-THAN-2,300-COLLEGE-ATHLETES)
+
+
+
+Nov 4, 2026
+
+
+
+[CHIPOTLE EXPANDS ATHLETE CARD PROGRAM TO MORE THAN 2,300 COLLEGE ATHLETESOpens in new window](https://newsroom.chipotle.com/2026-11-04-CHIPOTLE-EXPANDS-ATHLETE-CARD-PROGRAM-TO-MORE-THAN-2,300-COLLEGE-ATHLETES)
+
+
+
+
+
+Florida State joins The Ohio State University, University of Florida and University of Georgia as the fourth athletic department in Chipotle's growing Athlete Card program
+
+
+
+
+
+  - [Photos4Opens in new window](https://newsroom.chipotle.com/2026-11-04-CHIPOTLE-EXPANDS-ATHLETE-CARD-PROGRAM-TO-MORE-THAN-2,300-COLLEGE-ATHLETES#assets_20295_122898-117)
 
 - Oct 28, 2026
 
@@ -111,52 +163,6 @@ Chipotle Rewards members who visit a Chipotle restaurant in costume from 3 p.m. 
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026#assets_20295_122893-117)
-
-- [![](https://mmx.prnewswire.com/media/MS2011799/Chipotle_GUT_STILLS_STREET-2-2.jpg?id=OA3014400&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
-
-
-
-Oct 13, 2026
-
-
-
-[CHIPOTLE GOES BIG FOR FAMILY MEALS WITH THE BIG ASS CHIPOTLE BAGOpens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
-
-
-
-
-
-Chipotle unveils a limited-edition, three-foot-wide, 170-liter version of its iconic takeout bag to spotlight Family Meals Family Meals are Chipotle's digital-exclusive, customizable offering...
-
-
-
-
-
-  - [Photos5Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122892-117)
-  - [Video1Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122892-115)
-
-- [![](https://mmx.prnewswire.com/media/MS2001874/01_FromGroundtoSound_PR_Cision.jpg?id=OA2985587&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
-
-
-
-Oct 5, 2026
-
-
-
-[CHIPOTLE AND THE LONDON VEGETABLE ORCHESTRA RECORD ORIGINAL SONG AT LEGENDARY RECORDING STUDIO USING ONLY INSTRUMENTS MADE FROM VEGETABLESOpens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
-
-
-
-
-
-"From Ground to Sound" is an original track recorded at Abbey Road Studios with the London Vegetable Orchestra using only instruments made from vegetables featured in Chipotle restaurants Three...
-
-
-
-
-
-  - [Photos4Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES#assets_20295_122891-117)
-  - [Video1Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES#assets_20295_122891-115)
 
 Show
 
