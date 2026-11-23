@@ -1,7 +1,7 @@
 ---
 title: News Releases
 url: https://ir.chipotle.com/Financial-Releases
-scraped_at: 2026-11-16T16:42:08
+scraped_at: 2026-11-23T18:55:58
 ---
 
 November 2026
